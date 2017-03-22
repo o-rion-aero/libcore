@@ -1,2 +1,3 @@
-# cmake
-ORION CMake Framework Repository
+# ORION CMake Framework Repository
+
+Usage: include ORION_Framework.cmake
