@@ -1,0 +1,2 @@
+# libcore
+ORION Core Library
